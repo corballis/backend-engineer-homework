@@ -40,3 +40,5 @@ A writer has the following attributes:
 A publisher has the following attributes:
 * Id
 * Name
+
+You don't have to create CRUD for the Writer and Publisher entities. You only need to expose a REST api where you can request all the stored values so that you can use them as options in your drop downs.
